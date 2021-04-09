@@ -1,0 +1,2 @@
+#open uninstall
+appwiz.cpl
